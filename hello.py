@@ -11,3 +11,11 @@ print(b[2])
 
 c="20010331Rainy"
 print(c[:8])
+
+d = "happy"
+print(d.count('p'))
+print(d.find('h'))
+
+e = "Life is too short"
+print(e.replace("Life","your leg"))
+
