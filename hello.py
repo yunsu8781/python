@@ -1,4 +1,4 @@
-print('hellow')
+print('hello')
 ##2021.12.19(자료형1)
 print(1+1)
 a = 5
